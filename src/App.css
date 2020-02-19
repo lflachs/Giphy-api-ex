@@ -5,6 +5,9 @@ body {
   color: white;
   background-color: rgb(24, 24, 24);
 }
+.logo {
+  cursor: pointer;
+}
 .main-header {
   display: flex;
   align-items: center;

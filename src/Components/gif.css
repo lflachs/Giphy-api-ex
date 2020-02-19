@@ -20,7 +20,7 @@
 }
 .gif-image {
   background-position: center;
-  background-size: cover;
+  background-size: cover !important;
   background-repeat: no-repeat;
   transition: all 0.5s;
 }
